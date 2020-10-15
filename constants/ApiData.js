@@ -1,0 +1,123 @@
+export default [
+  {
+    id: 1,
+    rating: 3.5,
+    message: "This is alright!",
+    created_at: "2020-01-12T01:35:59.820Z",
+  },
+  {
+    id: 2,
+    rating: 1,
+    message: "This is horrible!",
+    created_at: "2020-02-01T01:35:59.820Z",
+  },
+  {
+    id: 3,
+    rating: 5,
+    message: "This is cool!",
+    created_at: "2020-02-13T01:35:59.820Z",
+  },
+  {
+    id: 4,
+    rating: 2.5,
+    message: "This is cool!",
+    created_at: "2020-02-14T01:35:59.820Z",
+  },
+  {
+    id: 5,
+    rating: 2,
+    message: "Could use improvement",
+    created_at: "2020-02-18T01:35:59.820Z",
+  },
+  {
+    id: 6,
+    rating: 1.5,
+    message:
+      "Wish I could be like other reviews because this text is super long and I am not handled well in this application like I am in other applications",
+    created_at: "2020-02-28T01:35:59.820Z",
+  },
+  {
+    id: 7,
+    rating: 4.5,
+    message: "Awesome app!",
+    created_at: "2020-03-01T01:35:59.820Z",
+  },
+  {
+    id: 8,
+    rating: 3.5,
+    message: "Nice app!",
+    created_at: "2020-03-03T01:35:59.820Z",
+  },
+  {
+    id: 9,
+    rating: 2.5,
+    message: "Wish I could do more",
+    created_at: "2020-03-04T01:35:59.820Z",
+  },
+  {
+    id: 10,
+    rating: 3,
+    message: "Pretty good!",
+    created_at: "2020-03-05T01:35:59.820Z",
+  },
+  {
+    id: 11,
+    rating: 5,
+    message: "Greatest app ever!",
+    created_at: "2020-03-07T01:35:59.820Z",
+  },
+  {
+    id: 12,
+    rating: 4.5,
+    message: "This is cool!",
+    created_at: "2020-03-08T01:35:59.820Z",
+  },
+  {
+    id: 13,
+    rating: 1,
+    message: "Not so great, this is expected to be the best review page ever.",
+    created_at: "2020-03-08T09:35:59.820Z",
+  },
+  {
+    id: 14,
+    rating: 5,
+    message: "My review is the best review",
+    created_at: "2020-03-09T01:35:59.820Z",
+  },
+  {
+    id: 15,
+    rating: 2.5,
+    message: "Would be great if more could be done",
+    created_at: "2020-03-10T01:35:59.820Z",
+  },
+  {
+    id: 16,
+    rating: 3.5,
+    message: "Wish you would add user profiles to reviews!",
+    created_at: "2020-03-11T01:35:59.820Z",
+  },
+  {
+    id: 17,
+    rating: 5,
+    message: "Nice work",
+    created_at: "2020-03-12T01:35:59.820Z",
+  },
+  {
+    id: 18,
+    rating: 2,
+    message: "I have a few ideas the make this better!",
+    created_at: "2020-03-13T01:35:59.820Z",
+  },
+  {
+    id: 19,
+    rating: 1,
+    message: "Things are really going downhill",
+    created_at: "2020-03-14T01:35:59.820Z",
+  },
+  {
+    id: 20,
+    rating: 4,
+    message: "Things are looking up!",
+    created_at: "2020-03-28T01:35:59.820Z",
+  },
+];
